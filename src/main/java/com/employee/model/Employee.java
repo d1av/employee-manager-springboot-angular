@@ -68,10 +68,7 @@ public class Employee {
 		return emailId;
 	}
 
-
-
-	public void setEmailId(String emailId2) {
-		// TODO Auto-generated method stub
-		
+	public void setEmailId(String emailId) {
+		this.emailId = emailId;
 	}
 }

@@ -2,6 +2,9 @@
 
 This is an server application for my Employee Management application that communicates with it's web application for holding on data. 
 
+## This site is live
+[https://employee-manager-sa.netlify.app/](https://employee-manager-sa.netlify.app/)
+
 ## Feedback and Bugs
 
 If you have feedback or a bug report, please feel free to open a GitHub issue!

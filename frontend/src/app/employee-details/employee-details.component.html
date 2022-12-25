@@ -1,0 +1,19 @@
+<section>
+  <h3>Ver detalhes do funcionário</h3>
+  <div>
+    <div>
+      <label><b>Primeiro Nome: </b></label> {{ employee.firstName }}
+    </div>
+    <div>
+      <label><b>Ultimo Nome: </b></label> {{ employee.lastName }}
+    </div>
+    <div>
+      <label><b>Email: </b></label> {{ employee.emailId }}
+    </div>
+    <button
+    (click)="goBack()"
+    class="btn btn-primary"
+    style="margin-top:10px"
+    >Voltar</button>
+  </div>
+</section>
